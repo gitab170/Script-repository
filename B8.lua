@@ -2174,9 +2174,9 @@ local v541_ = v_u_4_
 local v542_ = v_u_4_.MakeWindow(
     v541_,
     {
-        ["Name"] = "Fucked Blitz Cracked by Luna ezz bzzzzzz",
+        ["Name"] = "ブリッツHub クラック版",
         ["HidePremium"] = true,
-        ["SaveConfig"] = true,
+        ["SaveConfig"] = false,
         ["ConfigFolder"] = "FTAPConfig",
         ["IntroEnabled"] = false,
         ["KeyToOpenWindow"] = "M",
